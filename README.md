@@ -28,7 +28,7 @@ create an IAM user and create security credentials(AccessKey, SecretKey) and upd
 ![image](https://user-images.githubusercontent.com/82150368/117600166-1bff0880-b154-11eb-9d86-9d54d502d49a.png)
 ------------------------------------------------------------------------------------------------<br/>
 ### Versions:
-Terraform v0.13.7
+*Terraform v0.13.7
     * provider.aws v3.39.0
     * provider.template v2.2.0
 
