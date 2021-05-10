@@ -23,7 +23,7 @@ create an IAM user and create security credentials(AccessKey, SecretKey) and upd
 * terraform init
 * terraform plan
 * terraform apply -auto-approve
-* open browser with url = http:/{Wordpress.public.ip}
+* open browser with url = http://{Wordpress.public.ip}
  
 ![image](https://user-images.githubusercontent.com/82150368/117600166-1bff0880-b154-11eb-9d86-9d54d502d49a.png)
 ------------------------------------------------------------------------------------------------<br/>
