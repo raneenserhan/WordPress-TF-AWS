@@ -22,7 +22,7 @@ This is to Run nginx using AWS infrastructure, using ansible to provision infras
   python3 ––version
 * install ansible<br/>
   apt install -y ansible
-* install Community AWS Collection
+* install Community AWS Collection<br/>
   ansible-galaxy collection install community.aws
   
 ------------------------------------------------------------------------------------------------<br/>
@@ -37,6 +37,6 @@ This is to Run nginx using AWS infrastructure, using ansible to provision infras
 
 ------------------------------------------------------------------------------------------------<br/>
 ### Versions:
-python 3.8.5
-ansible 2.10.9
+* python 3.8.5
+* ansible 2.10.9
 
