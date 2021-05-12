@@ -1,4 +1,4 @@
-# WORDPRESS-AWS-TERRAFORM <br/>
+# NGINX-AWS-ANSIBLE <br/>
 
 ## About <br/><br/>
 This is to Run nginx using AWS infrastructure, using ansible to provision infrastructure.<br/>
