@@ -15,12 +15,12 @@ This is to Run nginx using AWS infrastructure, using ansible to provision infras
 
   ![image](https://user-images.githubusercontent.com/82150368/118038314-a2476480-b377-11eb-8709-099f2f59909d.png)
 
-* install pythonby by entering the following:
-  sudo apt update
+* install python by entering the following:<br/>
+  sudo apt update<br/>
   sudo apt install python3.8  
-  * Allow the process to complete and verify the Python version was installed sucessfully:
+  * Allow the process to complete and verify the Python version was installed sucessfully:<br/>
   python3 ––version
-* install ansible
+* install ansible<br/>
   apt install -y ansible
 * install Community AWS Collection
   ansible-galaxy collection install community.aws
