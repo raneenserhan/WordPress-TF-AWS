@@ -1,4 +1,4 @@
-# NGINX-AWS-ANSIBLE <br/>
+# WORDPRESS-AWS-TERRAFORM <br/>
 
 ## About <br/><br/>
 This is to deploy WordPress Application using AWS infrastructure, using terraform to provision infrastructure.<br/>
